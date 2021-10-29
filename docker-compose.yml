@@ -1,0 +1,10 @@
+version: "3.7"
+services:
+	# postgres used by airflow
+	postgres:
+		image:10.18
+		networks:
+			- default
+		volumes:
+			# create test database 
+   
