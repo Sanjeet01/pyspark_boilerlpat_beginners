@@ -52,3 +52,4 @@ if __name__ == '__main__':
     # pipeline.createHiveTable()
     pipeline.run_pipeline()
     logging.info("Pipeline Executed successfully")
+    # C:\python\Lib\site-packages\pyspark

@@ -26,10 +26,10 @@ class Transform_Test(unittest.TestCase):
 		spark.stop()
 		self.assertEqual("Unknown", str(cms_author))
 
-	# def test_should_throw_type_error(self):
-	# 	spark = SparkSession.builder.appName("test app").enableHiveSupport().getOrCreate()
-	# 	transform_process = transformation.Transformation(spark)
-	# 	with self.assertRaises(AttributeError): transform_process.transform(None)
+	def test_should_throw_type_error(self):
+		spark = SparkSession.builder.appName("test app").enableHiveSupport().getOrCreate()
+		transform_process = transformation.Transformation(spark)
+		with self.assertRaises(AttributeError): transform_process.transform(None)
 
 
 
