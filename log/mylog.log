@@ -1,0 +1,92 @@
+2021-10-04 01:04:47,575 - root - INFO - {E:\pyspark_boilerlpat_beginners\app.py:48} - Application Started
+2021-10-04 01:04:58,734 - root - INFO - {E:\pyspark_boilerlpat_beginners\app.py:51} - Spark Session Created
+2021-10-04 01:04:58,734 - Transformation - INFO - {E:\pyspark_boilerlpat_beginners\app.py:17} - run pipeline method started
+2021-10-04 01:04:58,734 - Extraction - INFO - {E:\pyspark_boilerlpat_beginners\pipeline\extraction.py:23} - Ingesting data from csv
+2021-10-04 01:05:07,565 - Extraction - INFO - {E:\pyspark_boilerlpat_beginners\pipeline\extraction.py:26} - Dataframe created
+2021-10-04 01:05:07,565 - Extraction - WARNING - {E:\pyspark_boilerlpat_beginners\pipeline\extraction.py:27} - Dummy Warning Dataframe created
+2021-10-04 01:05:13,520 - Extraction - INFO - {E:\pyspark_boilerlpat_beginners\pipeline\extraction.py:23} - Ingesting data from csv
+2021-10-04 01:05:13,565 - Extraction - INFO - {E:\pyspark_boilerlpat_beginners\pipeline\extraction.py:26} - Dataframe created
+2021-10-04 01:05:13,566 - Extraction - WARNING - {E:\pyspark_boilerlpat_beginners\pipeline\extraction.py:27} - Dummy Warning Dataframe created
+2021-10-04 01:05:14,073 - Transformation - INFO - {E:\pyspark_boilerlpat_beginners\pipeline\transformation.py:17} - Transforming Data
+2021-10-04 01:05:14,073 - Transformation - WARNING - {E:\pyspark_boilerlpat_beginners\pipeline\transformation.py:18} - Warning in transforming Data
+2021-10-04 01:05:20,066 - Transformation - INFO - {E:\pyspark_boilerlpat_beginners\app.py:32} - run pipeline method ended
+2021-10-04 01:05:20,066 - root - INFO - {E:\pyspark_boilerlpat_beginners\app.py:54} - Pipeline Executed successfully
+2021-10-27 09:10:22,208 - root - INFO - {E:\pyspark_boilerlpat_beginners\app.py:48} - Application Started
+2021-10-27 09:10:45,916 - root - INFO - {E:\pyspark_boilerlpat_beginners\app.py:51} - Spark Session Created
+2021-10-27 09:10:45,916 - Transformation - INFO - {E:\pyspark_boilerlpat_beginners\app.py:17} - run pipeline method started
+2021-10-27 09:10:45,916 - Extraction - INFO - {E:\pyspark_boilerlpat_beginners\pipeline\extraction.py:23} - Ingesting data from csv
+2021-10-27 09:10:59,393 - Extraction - INFO - {E:\pyspark_boilerlpat_beginners\pipeline\extraction.py:26} - Dataframe created
+2021-10-27 09:10:59,393 - Extraction - WARNING - {E:\pyspark_boilerlpat_beginners\pipeline\extraction.py:27} - Dummy Warning Dataframe created
+2021-10-27 09:11:12,316 - Extraction - INFO - {E:\pyspark_boilerlpat_beginners\pipeline\extraction.py:23} - Ingesting data from csv
+2021-10-27 09:11:12,376 - Extraction - INFO - {E:\pyspark_boilerlpat_beginners\pipeline\extraction.py:26} - Dataframe created
+2021-10-27 09:11:12,377 - Extraction - WARNING - {E:\pyspark_boilerlpat_beginners\pipeline\extraction.py:27} - Dummy Warning Dataframe created
+2021-10-27 09:11:12,876 - Transformation - INFO - {E:\pyspark_boilerlpat_beginners\pipeline\transformation.py:17} - Transforming Data
+2021-10-27 09:11:12,876 - Transformation - WARNING - {E:\pyspark_boilerlpat_beginners\pipeline\transformation.py:18} - Warning in transforming Data
+2021-10-27 09:11:22,020 - Transformation - INFO - {E:\pyspark_boilerlpat_beginners\app.py:32} - run pipeline method ended
+2021-10-27 09:11:22,021 - root - INFO - {E:\pyspark_boilerlpat_beginners\app.py:54} - Pipeline Executed successfully
+2021-10-27 09:47:15,615 - Transformation - INFO - {E:\pyspark_boilerlpat_beginners\pipeline\transformation.py:17} - Transforming Data
+2021-10-27 09:47:15,726 - Transformation - WARNING - {E:\pyspark_boilerlpat_beginners\pipeline\transformation.py:18} - Warning in transforming Data
+2021-10-27 10:54:06,653 - Transformation - INFO - {E:\pyspark_boilerlpat_beginners\pipeline\transformation.py:17} - Transforming Data
+2021-10-27 10:54:06,653 - Transformation - WARNING - {E:\pyspark_boilerlpat_beginners\pipeline\transformation.py:18} - Warning in transforming Data
+2021-10-27 10:54:26,038 - Transformation - INFO - {E:\pyspark_boilerlpat_beginners\pipeline\transformation.py:17} - Transforming Data
+2021-10-27 10:54:26,038 - Transformation - WARNING - {E:\pyspark_boilerlpat_beginners\pipeline\transformation.py:18} - Warning in transforming Data
+2021-11-06 11:54:14,766 - Transformation - INFO - {E:\pyspark_boilerlpat_beginners\pipeline\transformation.py:17} - Transforming Data
+2021-11-06 11:54:14,784 - Transformation - WARNING - {E:\pyspark_boilerlpat_beginners\pipeline\transformation.py:18} - Warning in transforming Data
+2021-11-06 11:55:09,073 - root - INFO - {E:\pyspark_boilerlpat_beginners\app.py:48} - Application Started
+2021-11-06 11:55:18,320 - root - INFO - {E:\pyspark_boilerlpat_beginners\app.py:51} - Spark Session Created
+2021-11-06 11:55:18,320 - Transformation - INFO - {E:\pyspark_boilerlpat_beginners\app.py:17} - run pipeline method started
+2021-11-06 11:55:18,320 - Extraction - INFO - {E:\pyspark_boilerlpat_beginners\pipeline\extraction.py:23} - Ingesting data from csv
+2021-11-06 11:55:21,496 - Transformation - INFO - {E:\pyspark_boilerlpat_beginners\pipeline\transformation.py:17} - Transforming Data
+2021-11-06 11:55:21,498 - Transformation - WARNING - {E:\pyspark_boilerlpat_beginners\pipeline\transformation.py:18} - Warning in transforming Data
+2021-11-06 11:55:42,903 - Extraction - INFO - {E:\pyspark_boilerlpat_beginners\pipeline\extraction.py:26} - Dataframe created
+2021-11-06 11:55:42,903 - Extraction - WARNING - {E:\pyspark_boilerlpat_beginners\pipeline\extraction.py:27} - Dummy Warning Dataframe created
+2021-11-06 11:55:53,623 - Extraction - INFO - {E:\pyspark_boilerlpat_beginners\pipeline\extraction.py:23} - Ingesting data from csv
+2021-11-06 11:55:53,680 - Extraction - INFO - {E:\pyspark_boilerlpat_beginners\pipeline\extraction.py:26} - Dataframe created
+2021-11-06 11:55:53,680 - Extraction - WARNING - {E:\pyspark_boilerlpat_beginners\pipeline\extraction.py:27} - Dummy Warning Dataframe created
+2021-11-06 11:55:54,086 - Transformation - INFO - {E:\pyspark_boilerlpat_beginners\pipeline\transformation.py:17} - Transforming Data
+2021-11-06 11:55:54,086 - Transformation - WARNING - {E:\pyspark_boilerlpat_beginners\pipeline\transformation.py:18} - Warning in transforming Data
+2021-11-06 11:56:02,634 - Transformation - INFO - {E:\pyspark_boilerlpat_beginners\app.py:32} - run pipeline method ended
+2021-11-06 11:56:02,639 - root - INFO - {E:\pyspark_boilerlpat_beginners\app.py:54} - Pipeline Executed successfully
+2021-11-06 11:58:23,278 - root - INFO - {E:\pyspark_boilerlpat_beginners\app.py:48} - Application Started
+2021-11-06 11:59:28,742 - root - INFO - {E:\pyspark_boilerlpat_beginners\app.py:51} - Spark Session Created
+2021-11-06 11:59:28,742 - Transformation - INFO - {E:\pyspark_boilerlpat_beginners\app.py:17} - run pipeline method started
+2021-11-06 11:59:28,742 - Extraction - INFO - {E:\pyspark_boilerlpat_beginners\pipeline\extraction.py:23} - Ingesting data from csv
+2021-11-06 12:00:00,788 - Extraction - INFO - {E:\pyspark_boilerlpat_beginners\pipeline\extraction.py:26} - Dataframe created
+2021-11-06 12:00:00,788 - Extraction - WARNING - {E:\pyspark_boilerlpat_beginners\pipeline\extraction.py:27} - Dummy Warning Dataframe created
+2021-11-06 12:00:20,905 - Extraction - INFO - {E:\pyspark_boilerlpat_beginners\pipeline\extraction.py:23} - Ingesting data from csv
+2021-11-06 12:00:21,015 - Extraction - INFO - {E:\pyspark_boilerlpat_beginners\pipeline\extraction.py:26} - Dataframe created
+2021-11-06 12:00:21,015 - Extraction - WARNING - {E:\pyspark_boilerlpat_beginners\pipeline\extraction.py:27} - Dummy Warning Dataframe created
+2021-11-06 12:00:22,035 - Transformation - INFO - {E:\pyspark_boilerlpat_beginners\pipeline\transformation.py:17} - Transforming Data
+2021-11-06 12:00:22,035 - Transformation - WARNING - {E:\pyspark_boilerlpat_beginners\pipeline\transformation.py:18} - Warning in transforming Data
+2021-11-06 12:00:43,131 - Transformation - INFO - {E:\pyspark_boilerlpat_beginners\app.py:32} - run pipeline method ended
+2021-11-06 12:00:43,132 - root - INFO - {E:\pyspark_boilerlpat_beginners\app.py:54} - Pipeline Executed successfully
+2021-11-06 12:13:09,739 - root - INFO - {E:\pyspark_boilerlpat_beginners\app.py:48} - Application Started
+2021-11-06 12:13:38,875 - root - INFO - {E:\pyspark_boilerlpat_beginners\app.py:51} - Spark Session Created
+2021-11-06 12:13:38,876 - Transformation - INFO - {E:\pyspark_boilerlpat_beginners\app.py:17} - run pipeline method started
+2021-11-06 12:13:38,876 - Extraction - INFO - {E:\pyspark_boilerlpat_beginners\pipeline\extraction.py:23} - Ingesting data from csv
+2021-11-06 12:14:07,943 - Extraction - INFO - {E:\pyspark_boilerlpat_beginners\pipeline\extraction.py:26} - Dataframe created
+2021-11-06 12:14:07,943 - Extraction - WARNING - {E:\pyspark_boilerlpat_beginners\pipeline\extraction.py:27} - Dummy Warning Dataframe created
+2021-11-06 12:14:35,841 - Extraction - INFO - {E:\pyspark_boilerlpat_beginners\pipeline\extraction.py:23} - Ingesting data from csv
+2021-11-06 12:14:36,131 - Extraction - INFO - {E:\pyspark_boilerlpat_beginners\pipeline\extraction.py:26} - Dataframe created
+2021-11-06 12:14:36,131 - Extraction - WARNING - {E:\pyspark_boilerlpat_beginners\pipeline\extraction.py:27} - Dummy Warning Dataframe created
+2021-11-06 12:14:37,077 - Transformation - INFO - {E:\pyspark_boilerlpat_beginners\pipeline\transformation.py:17} - Transforming Data
+2021-11-06 12:14:37,077 - Transformation - WARNING - {E:\pyspark_boilerlpat_beginners\pipeline\transformation.py:18} - Warning in transforming Data
+2021-11-06 12:14:47,510 - Transformation - INFO - {E:\pyspark_boilerlpat_beginners\app.py:32} - run pipeline method ended
+2021-11-06 12:14:47,511 - root - INFO - {E:\pyspark_boilerlpat_beginners\app.py:54} - Pipeline Executed successfully
+2021-11-06 12:25:20,982 - root - INFO - {E:\pyspark_boilerlpat_beginners\app.py:48} - Application Started
+2021-11-06 12:25:35,858 - root - INFO - {E:\pyspark_boilerlpat_beginners\app.py:51} - Spark Session Created
+2021-11-06 12:25:35,858 - Transformation - INFO - {E:\pyspark_boilerlpat_beginners\app.py:17} - run pipeline method started
+2021-11-06 12:25:35,858 - Extraction - INFO - {E:\pyspark_boilerlpat_beginners\pipeline\extraction.py:23} - Ingesting data from csv
+2021-11-06 12:25:54,101 - Extraction - INFO - {E:\pyspark_boilerlpat_beginners\pipeline\extraction.py:26} - Dataframe created
+2021-11-06 12:25:54,101 - Extraction - WARNING - {E:\pyspark_boilerlpat_beginners\pipeline\extraction.py:27} - Dummy Warning Dataframe created
+2021-11-06 12:26:02,287 - Extraction - INFO - {E:\pyspark_boilerlpat_beginners\pipeline\extraction.py:23} - Ingesting data from csv
+2021-11-06 12:26:02,336 - Extraction - INFO - {E:\pyspark_boilerlpat_beginners\pipeline\extraction.py:26} - Dataframe created
+2021-11-06 12:26:02,336 - Extraction - WARNING - {E:\pyspark_boilerlpat_beginners\pipeline\extraction.py:27} - Dummy Warning Dataframe created
+2021-11-06 12:26:02,788 - Transformation - INFO - {E:\pyspark_boilerlpat_beginners\pipeline\transformation.py:17} - Transforming Data
+2021-11-06 12:26:02,789 - Transformation - WARNING - {E:\pyspark_boilerlpat_beginners\pipeline\transformation.py:18} - Warning in transforming Data
+2021-11-06 12:26:08,810 - Transformation - INFO - {E:\pyspark_boilerlpat_beginners\app.py:32} - run pipeline method ended
+2021-11-06 12:26:08,811 - root - INFO - {E:\pyspark_boilerlpat_beginners\app.py:54} - Pipeline Executed successfully
+2021-11-08 08:08:47,736 - Transformation - INFO - {E:\pyspark_boilerlpat_beginners\pipeline\transformation.py:17} - Transforming Data
+2021-11-08 08:08:47,755 - Transformation - WARNING - {E:\pyspark_boilerlpat_beginners\pipeline\transformation.py:18} - Warning in transforming Data
+2021-11-08 08:08:58,167 - Transformation - INFO - {E:\pyspark_boilerlpat_beginners\pipeline\transformation.py:17} - Transforming Data
+2021-11-08 08:08:58,167 - Transformation - WARNING - {E:\pyspark_boilerlpat_beginners\pipeline\transformation.py:18} - Warning in transforming Data
